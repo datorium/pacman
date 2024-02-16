@@ -1,1 +1,2 @@
-nice idea
+
+Console.Writeline("Hello elchin");
